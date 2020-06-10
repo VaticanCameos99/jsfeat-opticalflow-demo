@@ -1,0 +1,3 @@
+- display only canvas
+- solve the issue of on_canvas_click being called multiple times
+- get multiple points to be tracked
