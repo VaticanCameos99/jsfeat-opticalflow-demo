@@ -1,3 +1,6 @@
 - display only canvas
-- solve the issue of on_canvas_click being called multiple times
-- get multiple points to be tracked
+DONE - solve the issue of on_canvas_click being called multiple times
+DONE - get multiple points to be tracked
+- add access to csv
+- add extraction of new coordinates and adding them to a .txt/.csv
+- make it automated over 5 fps
